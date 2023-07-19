@@ -1,0 +1,44 @@
+* {
+    color: #ffffff !important;
+}
+
+.logo {
+    width: 25%;
+    margin: 20px;
+}
+
+.divCarrito {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    margin: -50px 0px 0px 0px;
+}
+
+.carritoLogo {
+    padding: 8px;
+}
+
+.pCarrito {
+    font-size: 55px;
+    margin: 0;
+}
+
+.custom-navbar {
+    background-color: #343a40 !important;
+}
+
+.divContainer {
+    margin: 0 !important;
+}
+
+.me-auto {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.h1ItemListContainer {
+    color: #343a40 !important;
+}
